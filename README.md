@@ -64,7 +64,12 @@ Terdapat di folder database setara dengan folder application, nama databasenya f
 
 ## Tampilan
 
-![Listing](public/images/listing.png)  
-![Tambah](public/images/tambah.png)  
-![Edit](public/images/edit.png)  
+**Listing:**  
+![Listing](public/images/listing.jpg)  
+
+**Tambah:**  
+![Tambah](public/images/tambah.jpg)  
+
+**Edit:**  
+![Edit](public/images/edit.jpg)  
 
