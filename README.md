@@ -60,3 +60,11 @@ Sebelum memulai, pastikan Anda telah menginstal:
 ## File Database
 
 Terdapat di folder database setara dengan folder application, nama databasenya fastprint.sql
+
+
+## Tampilan
+
+![Listing](public/images/listing.png)  
+![Tambah](public/images/tambah.png)  
+![Edit](public/images/edit.png)  
+
